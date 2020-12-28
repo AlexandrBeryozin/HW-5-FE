@@ -1,0 +1,297 @@
+
+body {
+    margin: 0;
+    width: 1440px;
+    margin-left:auto;
+    margin-right: auto;
+    font-family: 'Lato', sans-serif;
+}
+
+.links {
+    width: 1440px;
+    height: 500px;
+    background: #ED4C5C;
+    color: white;
+}
+
+footer {
+    height: 435px;
+    background-color: #FAFAFA;
+}
+
+h1 {
+    position: absolute;
+    width: 445px;
+    height: 107px;
+    margin-left: 165px;
+    top: 122px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+}
+
+.info-main {
+    position: absolute;
+    width: 445px;
+    height: 64px;
+    margin-left: 165px;
+    top: 253px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: justify;
+}
+
+.video {
+    position: absolute;
+    width: 533px;
+    height: 311px;
+    margin-left: 691px;
+    top: 94px;
+}
+
+.link-icon {
+    position: absolute;
+    width: 134px;
+    height: 32px;
+    margin-left: 163px;
+    top: 357px;
+}
+
+.playmarket {
+    margin-right: 15px;
+}
+
+.appstore {
+    margin-right: 15px;
+}
+
+.windows {
+    margin-bottom: 4px;
+}
+
+.contact-logo {
+    position: absolute;
+    width: 445px;
+    height: 107px;
+    left: 176px;
+    top: 594px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+}
+
+.contact-text {
+    position: absolute;
+    width: 434px;
+    height: 64px;
+    left: 176px;
+    top: 713px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: justify;
+    color: #000000;
+}
+
+.first-name {
+    position: absolute;
+    width: 255px;
+    height: 60px;
+    left: 735px;
+    top: 617px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding-left: 30px;
+    color: gray;
+}
+
+.last-name {
+    position: absolute;
+    width: 255px;
+    height: 60px;
+    left: 1020px;
+    top: 617px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding-left: 30px;
+    color: gray;
+}
+
+.number {
+    position: absolute;
+    width: 540px;
+    height: 60px;
+    left: 735px;
+    top: 701px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding-left: 30px;
+    color: gray;
+}
+
+.service {
+    position: absolute;
+    width: 540px;
+    height: 60px;
+    left: 735px;
+    top: 785px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: gray;
+}
+
+.button-main {
+    position: absolute;
+    width: 160px;
+    height: 50px;
+    left: 735px;
+    top: 872px;
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.address-main {
+    position: absolute;
+    width: 65px;
+    height: 22px;
+    left: 166px;
+    top: 1130px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #101010;
+}
+
+.services {
+    position: absolute;
+    width: 67px;
+    height: 22px;
+    left: 450px;
+    top: 1130px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+}
+
+.touch {
+    position: absolute;
+    width: 101px;
+    height: 22px;
+    left: 734px;
+    top: 1130px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #101010;
+}
+
+.support {
+    position: absolute;
+    width: 106px;
+    height: 22px;
+    left: 1022px;
+    top: 1130px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+}
+
+.div1 {
+    width: 254px;
+    height: 10px;
+    left: 166px;
+    margin-top: 688px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #101010;
+    margin-bottom: 5px;
+}
+
+.div2 {
+    position: absolute;
+    width: 254px;
+    height: 114px;
+    left: 450px;
+    top: 1180px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 160%;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.div3 {
+    position: absolute;
+    width: 122px;
+    height: 14px;
+    left: 734px;
+    top: 1185px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+p {
+    margin-bottom: 5px;
+    margin-top: 0;
+    color: black;
+}
+a {
+    text-decoration: none;
+}
+
+.social-media-logo {
+    margin-top: 15px;
+    margin-right: 8px;
+}
+
+.number-text {
+    margin-top: 8px;
+}
+
+.visa-logo {
+    position: absolute;
+    width: 216px;
+    height: 31px;
+    left: 1028px;
+    top: 1196px;
+}
+
+.copyright {
+    position: absolute;
+    width: 155px;
+    height: 14px;
+    left: 161px;
+    top: 1390px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    color: #101010;
+}
