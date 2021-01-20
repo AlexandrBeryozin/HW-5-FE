@@ -13,7 +13,7 @@ body {
 }
 
 footer {
-    height: 435px;
+    height: 250px;
     background-color: #FAFAFA;
 }
 
@@ -217,7 +217,7 @@ h1 {
     color: #101010;
 }
 
-.div1 {
+.address {
     width: 254px;
     height: 10px;
     margin-left: 160px;
@@ -230,7 +230,7 @@ h1 {
     margin-bottom: 5px;
 }
 
-.div2 {
+.nav {
     position: absolute;
     width: 254px;
     height: 114px;
@@ -244,7 +244,7 @@ h1 {
     color: #000000;
 }
 
-.div3 {
+.contacts {
     position: absolute;
     width: 122px;
     height: 14px;
